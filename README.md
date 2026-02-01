@@ -1,7 +1,7 @@
 <section align="center">
   <h1>Lucas Marques</h1>
 
- <img src="https://i.imgur.com/vH0Hj3D.png" alt="Banner Lucas Marques" width="100%">
+<img src="https://raw.githubusercontent.com/LucasMarques/LucasMarques/main/banner.png" alt="Banner Lucas Marques" width="100%" onerror="this.src='https://i.imgur.com/vH0Hj3D.png'">
 </section>
 
 
